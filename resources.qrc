@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>fragmentShader.fsh</file>
+        <file>vertexShader.vsh</file>
+        <file>texture.png</file>
+        <file>lightningfragmentshader.frag</file>
+        <file>lightningvertexshader.vert</file>
+    </qresource>
+</RCC>
